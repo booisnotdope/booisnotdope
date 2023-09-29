@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @booisnotdope/ Ryan So
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on anything machine learning or AI related
-- 📫 How to reach me: ryanisi128@gmail.com
+- Hi, I’m @booisnotdope/ Ryan So
+- I’m interested in ...
+- I’m currently learning C
+- I’m looking to collaborate on anything machine learning or AI related
+- Email: ryanisi128@gmail.com
+- Linkedin: www.linkedin.com/in/ryan-so-so
 
 <!---
 booisnotdope/booisnotdope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
